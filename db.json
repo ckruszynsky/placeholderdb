@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Todo -1",
+      "color":"blue",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "text": "Todo -2",
+      "color":"blue",
+      "completed": false
+    },    
+    {
+      "id": 3,
+      "text": "Todo -3",
+      "color":"green",
+      "completed": false
+    }
+  ]  
+}
