@@ -1,22 +1,22 @@
 {
   "todos": [
     {
-      "id": 1,
-      "text": "Todo -1",
-      "color":"blue",
-      "completed": false
+      "Id": 1,
+      "Text": "Todo -1",
+      "Color":"blue",
+      "Completed": false
     },
     {
-      "id": 2,
-      "text": "Todo -2",
-      "color":"blue",
-      "completed": false
+      "Id": 2,
+      "Text": "Todo -2",
+      "Color":"blue",
+      "Completed": false
     },    
     {
-      "id": 3,
-      "text": "Todo -3",
-      "color":"green",
-      "completed": false
+      "Id": 3,
+      "Text": "Todo -3",
+      "Color":"green",
+      "Completed": false
     }
   ]  
 }
